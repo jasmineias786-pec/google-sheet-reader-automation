@@ -89,6 +89,11 @@ Alice| 85| ECE
 Ravi| 88| IT
 
 ---
+Demo:
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/c3bfdae6-2f54-49f1-a355-6c9082f5926d" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/28850adb-37d4-4dda-bd74-00c658640225" />
+
+
 
 📤 Example JSON Output
 
